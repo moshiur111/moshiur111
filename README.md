@@ -1,16 +1,15 @@
-```markdown
 # Hi there, I'm Moshiur 👋  
 Welcome to my GitHub profile! 🚀  
-I’m an aspiring **Software Engineer** passionate about **problem-solving**, **building impactful applications**, and **contributing to the tech community**.
+I’m an aspiring **Software Engineer** passionate about **problem-solving**, **building impactful applications**, and **contributing to the tech community**.  
 
 ---
 
-## 🌟 **About Me**
+## 🌟 **About Me**  
 
 - 🔬 **Background**: Self-taught programmer with a keen interest in algorithms, data structures, and software development.  
 - 🎯 **Goal**: Secure a software engineering role while mastering **competitive programming** and **full-stack development**.  
-- 💻 **Skills**:
-  - **Programming**: C, C++, JavaScript, TypeScript
+- 💻 **Skills**:  
+  - **Programming**: C, C++, JavaScript, TypeScript  
   - **Web Development**: HTML, CSS, React, Node.js  
   - **Databases**: MySQL, MongoDB  
   - **Tools**: Git, Docker, VSCode  
@@ -18,7 +17,7 @@ I’m an aspiring **Software Engineer** passionate about **problem-solving**, **
 
 ---
 
-## 🚀 **What I’m Working On**
+## 🚀 **What I’m Working On**  
 
 - 🔗 **Mastering Data Structures and Algorithms** through consistent problem-solving on **LeetCode** and **Codeforces**.  
 - 🌐 Building real-world applications using modern web technologies.  
@@ -26,23 +25,25 @@ I’m an aspiring **Software Engineer** passionate about **problem-solving**, **
 
 ---
 
-## 📬 **How to Reach Me**
+## 📬 **How to Reach Me**  
 
-- 📧 **Email**: [moshiur.dev@gmail.com](mailto:moshiur.dev@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/moshiur111](https://linkedin.com/in/moshiur111)  
-- 🕹️ **LeetCode**: [leetcode.com/moshiur111](https://leetcode.com/moshiur111)  
-- 🌍 **Portfolio**: [moshiur-portfolio.com](https://moshiur-portfolio.com)  
-
----
-
-## 📊 **GitHub Stats**
-
-![Moshiur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moshiur111&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur111&layout=compact&theme=radical)  
+[![Email](https://img.shields.io/badge/Email-moshiur.dev@gmail.com-blue?style=flat-square&logo=gmail)](mailto:moshiur.dev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moshiur111-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/moshiur111)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-moshiur111-orange?style=flat-square&logo=leetcode)](https://leetcode.com/moshiur111)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-moshiur--portfolio.com-red?style=flat-square&logo=web)](https://moshiur-portfolio.com)  
 
 ---
 
-## 🌱 **Current Focus Areas**
+## 📊 **GitHub Stats**  
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moshiur111&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur111&layout=compact&theme=radical" />
+</div>  
+
+---
+
+## 🌱 **Current Focus Areas**  
 
 - 🏅 **Competitive Programming**: Solving topic-wise problems and participating in coding contests.  
 - 🌐 **Full-Stack Development**: Crafting scalable, responsive web applications.  
@@ -50,7 +51,7 @@ I’m an aspiring **Software Engineer** passionate about **problem-solving**, **
 
 ---
 
-## 🔥 **Pinned Projects**
+## 🔥 **Pinned Projects**  
 
 ### 🖥️ [Portfolio Website](https://github.com/moshiur111/portfolio)  
 A fully responsive portfolio website showcasing my skills, projects, and achievements. Built with **React** and **CSS**.  
@@ -66,4 +67,3 @@ A feature-rich e-commerce platform built using the **MERN stack**, featuring use
 ### 🌟 *Thank you for visiting my profile!*  
 Feel free to explore my repositories, and don’t hesitate to reach out for **collaboration** or a friendly chat.  
 Together, let’s build something amazing! 🌟  
-```
