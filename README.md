@@ -28,7 +28,8 @@ I’m an aspiring **Software Engineer** passionate about **problem-solving**, **
 ## 📬 **How to Reach Me**  
 
 [![Email](https://img.shields.io/badge/Email-moshiur.dev@gmail.com-blue?style=flat-square&logo=gmail)](mailto:moshiur.dev@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moshiur111-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/moshiur111)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moshiur111-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/moshiur111)
+[![Codeforces](https://img.shields.io/badge/Codeforces-moshiur111-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/moshiur111)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-moshiur111-orange?style=flat-square&logo=leetcode)](https://leetcode.com/moshiur111)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-moshiur--portfolio.com-red?style=flat-square&logo=web)](https://moshiur-portfolio.com)  
 
