@@ -1,101 +1,94 @@
-# Hi there, I'm Muhammad Moshiur Rahman 👋  
-Welcome to my GitHub profile! 🚀  
-I’m an aspiring **Software Engineer** with a strong passion for **AI-powered solutions**, **problem-solving**, **building impactful applications**, and **contributing to the tech community**.  
+# Hi, I’m Muhammad Moshiur Rahman 👋
+
+**Software Engineer** | Full-Stack Developer | Competitive Programmer
+
+I build **scalable, maintainable web applications** using **React, TypeScript, Node.js, and Express**.  
+My strengths lie in **clean API design, database modeling, authentication (RBAC), and backend-focused system architecture**, backed by strong problem-solving skills.
 
 ---
 
-## 🌟 **About Me**  
+## 🧑‍💻 About Me
+- **Role:** Software Engineer (Junior Level) & Full-Stack Developer
+- **Experience:** Designed and implemented production-style systems with **role-based access control**, structured APIs, and complex schemas
+- **Problem Solving:** Solved **500+ algorithmic problems** across competitive programming platforms
+- **Work Style:** Known for writing **readable code**, maintaining **clean Git history**, and documenting systems clearly
+- **Goal:** Help teams and businesses build **reliable, high-performance web solutions**
+  
+---
 
-- 🔬 **Background**: Self-taught programmer with expertise in **data structures**, **algorithms**, and **software development**.  
-- 🤖 **AI Enthusiast**: While I'm not an expert in **AI/ML** yet, I am actively learning and building foundational knowledge by working on real-world projects and exploring cutting-edge technologies.  
-- 🎯 **Goal**: Secure a **Software Engineering** role while mastering **AI/ML**, **competitive programming**, and **full-stack development**.  
-- 💻 **Skills**:  
-  - **Programming**: C, C++, Python, JavaScript, TypeScript  
-  - **AI/ML**: TensorFlow, scikit-learn, Pandas, NumPy (learning in progress)  
-  - **Web Development**: HTML, CSS, React, Node.js  
-  - **Databases**: PostgreSQL, MySQL, MongoDB  
-  - **Tools**: Git, Docker, VSCode  
-- 🏆 **Hobbies**: Competitive programming, exploring open-source projects, and building innovative AI-powered solutions.  
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) |
+| **Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) |
 
 ---
 
-## 🚀 **What I’m Working On**  
+## 🚀 Key Projects
 
-- 🤖 **AI-Powered Projects**: Learning by building beginner-friendly **machine learning models** and experimenting with **natural language processing**.  
-- 🧮 **Mastering Data Structures and Algorithms** through consistent problem-solving on **LeetCode**, **Codeforces** and **Codechef**.  
-- 🌐 Building **real-world applications** with modern web technologies and AI integrations.  
-- 🤝 Collaborating on **open-source AI projects** to contribute to the tech community.
-
----
-
-## 📬 **How to Reach Me**
-
-[![Email](https://img.shields.io/badge/Email-moshiur.code@gmail.com-blue?style=flat-square&logo=gmail)](mailto:moshiur.code@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moshiur111-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/moshiur111)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-moshiur111-orange?style=flat-square&logo=codeforces)](https://codeforces.com/profile/moshiur111)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-moshiur111-orange?style=flat-square&logo=leetcode)](https://leetcode.com/moshiur111)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-moshiur111-orange?style=flat-square&logo=codechef)](https://www.codechef.com/users/moshiur111)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-moshiur--portfolio.com-green?style=flat-square&logo=web)](https://moshiur-portfolio.com)  
+### 🏫 [University Administration System](LINK_TO_REPO_HERE)
+*A full-stack system for managing complex academic workflows.*
+- **Features:** Role-based access (Admin / Faculty / Student), automated grade calculation, class scheduling
+- **Focus:** API design, authorization, and scalable backend structure
+- **Tech:** Node.js, Express, TypeScript, MongoDB, React
 
 ---
 
-
-## 📊 **GitHub Stats**  
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moshiur111&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur111&layout=compact&theme=radical" />
-</div>  
-
+### 🏥 [Healthcare Operations Platform](LINK_TO_REPO_HERE)
+*A secure platform focused on data integrity and patient management.*
+- **Features:** Relational schema design with foreign keys, appointment booking, secure authentication
+- **Focus:** Data integrity, authorization, and structured backend architecture
+- **Tech:** Node.js, Express, TypeScript, PostgreSQL, React
 
 ---
 
-## 🌱 **Current Focus Areas**  
+## 🧠 Problem Solving
+I actively sharpen my logic through competitive programming.
 
-- 🤖 **AI/ML Learning Journey**:  
-   - Exploring AI concepts, frameworks, and small-scale projects to strengthen my understanding.  
-   - Actively participating in open-source initiatives to learn from experienced practitioners.  
-- 🏅 **Competitive Programming**: Improving problem-solving skills by tackling algorithmic challenges.  
-- 🌐 **Full-Stack Development**: Creating scalable, responsive applications with **React**, **Node.js**, and **PostgreSQL**.  
-- 📘 **Advanced Learning**: Diving deeper into **system design**, **clean code principles**, and **cloud technologies**.  
+- **Total Problems Solved:** 500+
+- **Focus Areas:** Arrays, Strings, Recursion, Dynamic Programming, Graphs, Greedy Algorithms
 
----
+<div align="left">
 
-## 🔥 **Pinned Projects**  
+[<img src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-3628695-3029920.png" height="35" align="middle" /> **Codeforces**](https://codeforces.com/profile/moshiur111)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="35" align="middle" /> **LeetCode**](https://leetcode.com/moshiur111)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="35" align="middle" style="filter: invert(100%);" /> **CodeChef**](https://www.codechef.com/users/moshiur111)
 
-### 🤖 [AI-Powered Sentiment Analyzer](https://github.com/moshiur111/ai-sentiment-analyzer)  
-- **Tech Stack**: Python, TensorFlow, Natural Language Processing (NLP)  
-- **Features**:  
-  - Developed a sentiment analysis model to classify text data as positive, negative, or neutral.  
-  - Preprocessed datasets using **NLTK** and implemented a **Neural Network** for text classification.  
-- **Impact**: Helps businesses analyze customer feedback and improve decision-making.  
+</div>
 
 ---
 
-### 🏫 [School Management App](https://github.com/moshiur111/school-management-system)  
-- **Tech Stack**: TypeScript, React, Node.js, PostgreSQL  
-- **Features**:  
-  - **User Roles**: Admin, Teacher, and Student.  
-  - **Admin Features**: Manage students, teachers, courses, and schedules.  
-  - **Teacher Features**: Assign grades, upload course materials, and track student progress.  
-  - **Student Features**: View grades, access course materials, and monitor attendance.  
-- **Impact**: Simplifies administrative workflows and improves communication across educational institutions.  
+## 🎯 Open To
+- **Freelance / Contract:** SaaS MVPs, admin dashboards, backend APIs
+- **Employment:** Junior Software Engineer / Full-Stack Developer roles
 
 ---
 
-### 🧮 [DSA Practice](https://github.com/moshiur111/dsa-practice)  
-- **Description**:  
-  - A collection of solved problems from **LeetCode**, **Codeforces**, and more, organized by topic.
+## 🔧 Currently Working On
+- Building scalable full-stack applications with **React, Node.js, and PostgreSQL**
+- Improving backend architecture and system design fundamentals
+- Strengthening problem-solving skills through daily competitive programming
 
 ---
 
-### 🖥️ [Portfolio Website](https://github.com/moshiur111/portfolio)  
-- **Tech Stack**: React, CSS, Netlify  
-- **Features**:  
-  - Fully responsive layout showcasing skills, projects, and achievements.  
-  - Modern design focused on user experience and clarity.  
+## 📫 Connect with Me
+
+<div align="left">
+
+[<img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" height="30" align="middle" /> **Gmail**](mailto:moshiur.code@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" align="middle" /> **LinkedIn**](https://www.linkedin.com/in/moshiur111)
+
+</div>
 
 ---
 
-### 🌟 *Thank you for visiting my profile!*  
-Feel free to explore my repositories, and don’t hesitate to reach out for **collaboration** or a friendly chat. Together, let’s build something amazing with **AI and technology**! 🌟  
+<p align="center">
+<i>Thanks for visiting! Feel free to explore my repositories or reach out for collaboration.</i>
+</p>
